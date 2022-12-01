@@ -111,7 +111,7 @@ ul, li {
   height: 400px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/2DARKBANNER.jpeg");
+  background-image: url("../public/2DARKBANNER.jpeg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -229,27 +229,27 @@ opacity: 0.5;
 }
 .item-b {
   grid-area: ph1;
-  background-image: url("../images/PH1.png");
+  background-image: url("../public/PH1.png");
   height: 400px;
 
 }
 .item-c {
   grid-area: ph2;
-  background-image: url("../images/PH2.png");
+  background-image: url("../public/PH2.png");
 
 }
 .item-d {
   grid-area: ph3;
-  background-image: url("../images/PH3.jpeg");
+  background-image: url("../public/PH3.jpeg");
 }
 .item-e {
   grid-area: ph4;
-  background-image: url("../images/PH4.jpeg");
+  background-image: url("../public/PH4.jpeg");
 
 }
 .item-f {
   grid-area: ph5;
-  background-image: url("../images/PH5.png");
+  background-image: url("../public/PH5.png");
 
 }
 

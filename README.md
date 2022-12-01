@@ -6,6 +6,7 @@ When a user is shown the portfolio section, then they will see the images of all
 When a user sees the resume section, then there will be a link to download the candidates resume.
 
 # Screenshots
+! [](./public/Portfolio.png)
 
 # Links
 GitHub Repo: https://github.com/bilalfarrukh2000/peachy-portfolio

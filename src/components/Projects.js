@@ -19,8 +19,10 @@ function Projects() {
                 </summary>
             </li>
             <li class = "item-d">  
+            <a class="coding-project" href="https://mood-ring.herokuapp.com/" target="_blank"></a>
                 <summary class="project-name">
-                    <h5>Placeholder</h5>
+                    <h5>Mood Ring</h5>
+                    <p>Node/Express, MERN, JS, CSS</p>
                 </summary>
             </li>
             <li class = "item-e">

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/peachy-portfolio/static/css/main.6cbad4ea.css",
-    "main.js": "/peachy-portfolio/static/js/main.8f54aab2.js",
+    "main.js": "/peachy-portfolio/static/js/main.22b8a233.js",
     "static/js/787.92b4de0b.chunk.js": "/peachy-portfolio/static/js/787.92b4de0b.chunk.js",
     "static/media/Bilal.jpeg": "/peachy-portfolio/static/media/Bilal.fb7c9641157fc5000973.jpeg",
     "static/media/2DARKBANNER.jpeg": "/peachy-portfolio/static/media/2DARKBANNER.8ff20ce786d3f0959ed1.jpeg",
     "index.html": "/peachy-portfolio/index.html",
     "main.6cbad4ea.css.map": "/peachy-portfolio/static/css/main.6cbad4ea.css.map",
-    "main.8f54aab2.js.map": "/peachy-portfolio/static/js/main.8f54aab2.js.map",
+    "main.22b8a233.js.map": "/peachy-portfolio/static/js/main.22b8a233.js.map",
     "787.92b4de0b.chunk.js.map": "/peachy-portfolio/static/js/787.92b4de0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cbad4ea.css",
-    "static/js/main.8f54aab2.js"
+    "static/js/main.22b8a233.js"
   ]
 }
